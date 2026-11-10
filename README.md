@@ -4,6 +4,15 @@ A modular JavaScript utility library for Minecraft Bedrock add-on developers.
 
 **EditionAPI v0.1.0** — created by **ModWorld Studio**.
 
+## Current Version
+
+**EditionAPI v0.1.0**
+
+EditionAPI is currently in early development.
+Features and APIs may change in future releases.
+
+[View Releases](https://github.com/officialmwstudio/EditionAPI/releases)
+
 ## Modules
 
 - **Store** — dynamic-property storage with chunking, validation, and version migrations.
