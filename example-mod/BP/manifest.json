@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "EditionAPI Example Mod",
+    "description": "Shows how a mod uses EditionAPI: zombie kill rewards and tougher zombies.",
+    "uuid": "9c31aba5-c953-41c8-bd29-d24f7606112e",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 21, 100]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "a32024fa-f2ea-42e7-a8cb-78b0c497b8b7",
+      "version": [0, 1, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    { "module_name": "@minecraft/server", "version": "1.19.0" }
+  ]
+}
