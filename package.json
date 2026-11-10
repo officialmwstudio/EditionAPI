@@ -5,7 +5,6 @@
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "test": "node test/run.mjs",
     "build": "node tools/build.mjs"
   },
   "license": "MIT"
