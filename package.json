@@ -1,0 +1,12 @@
+{
+  "name": "editionapi",
+  "version": "0.1.0",
+  "description": "A helper library for Minecraft Bedrock add-ons: Store (safe saving), Stats (kill/death/block counters) and MobRules (change mobs based on conditions).",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/run.mjs",
+    "build": "node tools/build.mjs"
+  },
+  "license": "MIT"
+}
